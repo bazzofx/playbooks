@@ -3,10 +3,11 @@
 
 Unofficial Repository for Trend Micro XDR / Vision One Hunting Recipes
 
-This is a great place to learn how to use different features to help you hunt.
+A collection of Threat Hunting queries I am finding online.
 
 This is a work in progress repo.
 
-Suggestions and contributions (pull request) are welcome
+## Links
+[Trend EventId List](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-eventid-eventsubid-mapping)
 
-David Girard Trend Micro XDR
+PB - a.k.a [Cyber Samurai](https://cybersamurai.co.uk)
