@@ -22,13 +22,14 @@ Recommend detection strategies using fields listed below. Structure your detecti
 Propose response actions suitable for a SOC or IR playbook.
 
 ## Input Activity Data
-pgsql
-Copy
-Edit
 Process Name: [Insert process name]
 Executed Commands: [Insert full command line(s)]
 Allowed Logical Operators for Detection Queries
 AND, OR, AND NOT
+
+## Requirements
+This is the search Syntax for XDR - Trend Micro you must only use  the syntax below to create the queries this is extremelly important
+Do not add syntax from shodan or censy for example , we must use trendMicro search syntax only
 
 ## Logical Operator Syntax
 Logical operator precedence
